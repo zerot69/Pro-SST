@@ -13,7 +13,7 @@ export default function Home() {
 	return (
 		<>
 			<Header />
-			<main className="bg-[#292929]">
+			<main className="bg-[#292929] text-white">
 				<ServerSideTrackingContent />
 				<ImportanceContent />
 				<hr className="w-full h-4 my-12 bg-[#FF621E] border-0"></hr>
